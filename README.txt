@@ -17,3 +17,5 @@ Steps:
   </system>
 
 5. Create a theme for this. My theme called ES-Theme-Homebrew is the only one that I know of that is compatible with this system.
+   if you want to use that theme, run the following command:
+   git clone https://gitlab.com/Sterophonick/ES-Theme-Homebrew.git /etc/emulationstation/themes/ES-Theme-Homebrew
